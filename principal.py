@@ -9,4 +9,6 @@ if ehPar:
 else:
     print("{} é ímpar".format(numero))
 
-print("tchauuuuuu")
+print("tchau")
+print("o programa está finalizando")
+
