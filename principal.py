@@ -8,3 +8,5 @@ if ehPar:
     print("{} eh par".format(numero))
 else:
     print("{} é ímpar".format(numero))
+
+print("tchauuuuuu")
